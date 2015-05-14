@@ -26,7 +26,7 @@ public class getCheapTic {
 
 	// Find your Account Sid and Token at twilio.com/user/account
 	public static final String ACCOUNT_SID = "AC734f4ca7704ce47d7de3337bdcfd9653";
-	public static final String AUTH_TOKEN = "6a7ea5ef1f0b6a883a763a2570c1e776";
+	public static final String AUTH_TOKEN = "MARKDOWN CONFIDENTIAL";
 
 	public static void main(String[] args) throws TwilioRestException, FileNotFoundException, UnsupportedEncodingException {
 
